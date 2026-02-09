@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew build",
+    "working_directory": "/home/kavia/workspace/code-generation/business-loan-web-app-316177-317945/BusinessLoanAPISpringBoot"
+}
